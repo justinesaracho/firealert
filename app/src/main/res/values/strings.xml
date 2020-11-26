@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Firealert Manila</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_announcement">Announcement</string>
+    <string name="menu_alert">Alert</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="signout">Signout</string>
+    <string name="report_problem">Report a Problem</string>
+    <string name="system_logs">System Logs</string>
+    <string name="view_reports">View Reports</string>
+    <string name="alerts">Alerts</string>
+    <string name="alert_info">Alert Information</string>
+
+    <string name="btn_respond">Respond</string>
+    <string name="recaptcha_cbox">I\'m not a robot</string>
+
+
+    <string name="client_id">1092345542698-qh68fad6lupi4bivb3069jcoqapm2rq5.apps.googleusercontent.com</string>
+    
+<!--    Announcement-->
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+
+    <string name="save_announcement">Save</string>
+    <string name="cancel_announcement">Cancel</string>
+    
+
+<!--    Register-->
+    <string name="register_name">Name</string>
+    <string name="register_email">Email</string>
+    <string name="register_mobilenumber">Mobile Number</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirm_password">Confirm Password</string>
+
+<!--    Button-->
+    <string name="submit">Submit</string>
+    <string name="change_password">Change Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_announcement">Add Announcement</string>
+    <string name="myprofile">My Profile</string>
+    <string name="str_register">Register</string>
+
+
+<!--    Reset Password-->
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_alert_fragment">Map</string>
+    <string name="send_alert">Send Alert</string>
+    <string name="btn_current_location">Current</string>
+
+
+<!--    Report a problem-->
+    <string name="report_a_problem_str">Report A Problem</string>
+    <string name="btn_send_report">Send</string>
+    <string name="btn_cancel_report">Cancel</string>
+    <string name="subject">Subject</string>
+    <string name="problem">Problem</string>
+
+
+
+<!--    Reports-->
+    <string name="str_year">Year: </string>
+    <string name="str_month">Month: </string>
+    <string name="btn_submit">Submit</string>
+
+    <string-array name="spinner_month_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string name="ok">Ok</string>
+    <string name="snackbar_content">You have to allow permission to access location</string>
+<!--    Safety Tips-->
+    <string name="safety_tips">Safety Tips</string>
+    <string name="tips">Tips</string>
+
+    <string name="gps_api_key">AIzaSyDbKDxCA_ZhDbVxpxmeS79okneGSkphkgo</string>
+</resources>

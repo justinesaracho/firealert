@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=50:FD:48:B5:2A:40:02:73:80:06:C0:EA:13:1A:C7:61:CB:E9:9F:5A%3Bcom.example.raha_firealert.User.ui.alert
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    50:FD:48:B5:2A:40:02:73:80:06:C0:EA:13:1A:C7:61:CB:E9:9F:5A
+
+    SHA-1 certificate fingerprint:
+    50:FD:48:B5:2A:40:02:73:80:06:C0:EA:13:1A:C7:61:CB:E9:9F:5A
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDbKDxCA_ZhDbVxpxmeS79okneGSkphkgo</string>
+</resources>

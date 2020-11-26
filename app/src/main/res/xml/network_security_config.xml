@@ -1,8 +1,0 @@
-<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
-<network-security-config>
-    <base-config cleartextTrafficPermitted="true" />
-    <domain-config>
-        <domain includeSubdomains="true">raha-firealert.test</domain>
-        <domain includeSubdomains="true">1b3e604c5aeb.ngrok.io</domain>
-    </domain-config>
-</network-security-config>
